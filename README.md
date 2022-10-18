@@ -6,3 +6,6 @@ some more lines added.
 
 
 There is always some change that needs to be added.
+
+
+change that lasts is equivalent to permanent change.
