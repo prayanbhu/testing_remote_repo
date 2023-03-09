@@ -20,8 +20,12 @@ def func1():
     # Code changed in here
     pass
 
+def func4():
+    # Added some change in here.
+    pass
 
 if __name__ == "__main__":
     func()
     func1()
     func3()
+    func4()
