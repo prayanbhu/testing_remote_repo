@@ -19,6 +19,14 @@ def func1():
     pass
 
 
+def func3():
+  # Code changed in here
+  # Code changed in here
+  # Code changed in here
+  # Code changed in here
+  pass
+
+
 if __name__ == "__main__":
     func()
     func1()
