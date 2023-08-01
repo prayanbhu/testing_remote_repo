@@ -35,3 +35,6 @@ if __name__ == "__main__":
     func3()
     func4()
     func5()
+
+def funct():
+    pass
